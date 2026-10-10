@@ -1,0 +1,11 @@
+{
+  "org": "tiangolo",
+  "repo": "markdown-include-variants",
+  "versions": [
+    {
+      "commit": "6bee43fcda6c1997f0c08b5f1f7cb7e511bf9c06",
+      "tag": "",
+      "parsed_at": "2026-10-10T04:14:17.476646+00:00"
+    }
+  ]
+}
